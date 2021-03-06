@@ -9,4 +9,4 @@ So we are making a bot which can provide links for those.
 
 This project will be created by Vatsal Jingar,Anshul Nagdeve,Aashish Aggarwal.
 
-This project is created for Hackathon for students of IIT-D.
+This project is created for (Hackathon for students of IIT-D.)
